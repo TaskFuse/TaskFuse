@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi, We are TaskFuse! 👋
 
-<!--
-**TaskFuse/TaskFuse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Stats](https://github-readme-stats.vercel.app/api?username=TaskFuse&show_icons=true&layout=compact&theme=dark)](https://github.com/TaskFuse)
+[![MUL](https://github-readme-stats.vercel.app/api/top-langs/?username=TaskFuse&layout=compact&theme=dark)](https://github.com/TaskFuse)
 
-Here are some ideas to get you started:
+## 🔗 Website
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+https://taskfuse.github.io
+
+
+## 🚀 About Us
+
+The Team behind TaskFuse are:
+#### [Abdul4968](https://github.com/abdul4968 "Yep, We only are..")
+#### [Darreneffecto](https://github.com/darrenefecto "Two Guys!")
